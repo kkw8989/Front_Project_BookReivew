@@ -39,7 +39,7 @@ const BookData = ({ category, srchValue, selectedAge }) => {
       try {
         if (category === "loanItemSrch") {
           const response = await axios.get(
-            // `http://data4library.kr/api/${category}?authKey=a2ad5e959532cac192e22f50164735ef8758dfa68dc808917a4e7b8a414a4ce4&age=${selectedAge}&pageNo=1&pageSize=10&format=json`
+            // `http://data4library.kr/api/${category}?authKey=[key]&age=${selectedAge}&pageNo=1&pageSize=10&format=json`
           );
 
           for (let i = 0; i <= 9; i++) {
@@ -55,7 +55,7 @@ const BookData = ({ category, srchValue, selectedAge }) => {
                 
         if (category === "srchBooks") {
           const response = await axios.get(
-            // `http://data4library.kr/api/${category}?authKey=a2ad5e959532cac192e22f50164735ef8758dfa68dc808917a4e7b8a414a4ce4&title=${srchValue}&exactMatch=true&pageNo=1&pageSize=10&format=json`
+            // `http://data4library.kr/api/${category}?authKey=[key]&title=${srchValue}&exactMatch=true&pageNo=1&pageSize=10&format=json`
           );
           for (let i = 0; i <= 9; i++) {
             array.push({
