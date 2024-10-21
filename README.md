@@ -49,7 +49,7 @@
 
 **- 플로우 차트**
 
-<img src="https://github.com/user-attachments/assets/9f352a2f-4c13-4e51-b0bb-2a693edcf173" width="60%" height="60%"/> 
+<img src="https://github.com/user-attachments/assets/9f352a2f-4c13-4e51-b0bb-2a693edcf173" width="70%" height="70%"/> 
  <br></br>
 
 **- 요구사항 및 화면설계**
