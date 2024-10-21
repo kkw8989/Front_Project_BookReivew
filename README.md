@@ -24,7 +24,7 @@
  **1. 도서 조회**  
  도서 검색   
 
- <img src="https://github.com/user-attachments/assets/a1bf0032-e24b-4402-83da-6dcf35294921" width="47%" height="47%"/>
+ <img src="https://github.com/user-attachments/assets/a1bf0032-e24b-4402-83da-6dcf35294921" width="35%" height="35%"/>
  <br>
  
  **2. 인기도서**  
