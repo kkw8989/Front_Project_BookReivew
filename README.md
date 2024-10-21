@@ -47,7 +47,7 @@
 
 ### 📍 설계
 
-**- IA**
+**- 플로우 차트**
 
 <img src="https://github.com/user-attachments/assets/9f352a2f-4c13-4e51-b0bb-2a693edcf173" width="60%" height="60%"/> 
  <br></br>
