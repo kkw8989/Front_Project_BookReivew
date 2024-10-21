@@ -42,7 +42,7 @@
  **4. 리뷰 작성**  
 리뷰 작성 및 수정, 삭제
 
-<img src="https://github.com/user-attachments/assets/32bc2300-dece-482f-9c55-d514c91b8462" width="35%" height="35%"/>
+<img src="https://github.com/user-attachments/assets/32bc2300-dece-482f-9c55-d514c91b8462" width="50%" height="50%"/>
 <br></br>
 
 ### 📍 설계
