@@ -24,33 +24,33 @@
  **1. 도서 조회**  
  도서 검색   
 
- <img src="https://github.com/user-attachments/assets/08a8e671-e247-4431-beab-a3f0ad53d634.png" width="47%" height="47%"/>
+ <img src="https://github.com/user-attachments/assets/a1bf0032-e24b-4402-83da-6dcf35294921" width="47%" height="47%"/>
  <br>
  
  **2. 인기도서**  
  연령대별 인기도서
   
- <img src="https://github.com/user-attachments/assets/b84be0df-3661-4b03-a26e-bdb2c860fb63.png" width="47%" height="47%"/>
+ <img src="https://github.com/user-attachments/assets/b84be0df-3661-4b03-a26e-bdb2c860fb63" width="47%" height="47%"/>
  <br>
 
  **3. 북카트**   
  대출신청 및 삭제
  
- <img src="https://github.com/user-attachments/assets/e97e74ea-c00f-46f0-99d6-52c8fbb91061.png" width="47%" height="47%"/>
- <img src="https://github.com/user-attachments/assets/bff27a89-5287-4114-89d7-b64cdfe78275.png" width="47%" height="47%"/>
+ <img src="https://github.com/user-attachments/assets/e97e74ea-c00f-46f0-99d6-52c8fbb91061" width="47%" height="47%"/>
+ <img src="https://github.com/user-attachments/assets/bff27a89-5287-4114-89d7-b64cdfe78275" width="47%" height="47%"/>
  <br>
 
  **4. 리뷰 작성**  
 리뷰 작성 및 수정, 삭제
 
-<img src="https://github.com/user-attachments/assets/32bc2300-dece-482f-9c55-d514c91b8462.png" width="47%" height="47%"/>
+<img src="https://github.com/user-attachments/assets/32bc2300-dece-482f-9c55-d514c91b8462" width="47%" height="47%"/>
 <br>
 
 ### 📍 설계
 
 **- IA**
 
-<img src="https://github.com/user-attachments/assets/9f352a2f-4c13-4e51-b0bb-2a693edcf173.png" width="47%" height="47%"/> 
+<img src="https://github.com/user-attachments/assets/9f352a2f-4c13-4e51-b0bb-2a693edcf173" width="47%" height="47%"/> 
 
 
 **- 요구사항 및 화면설계**
