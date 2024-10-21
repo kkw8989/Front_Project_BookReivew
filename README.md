@@ -46,7 +46,7 @@
 
 **- IA**
 
-<img src="https://github.com/user-attachments/assets/f81a3e29-c102-45cf-8124-bb665fcadb8e"/> 
+<img src="https://github.com/user-attachments/assets/9f352a2f-4c13-4e51-b0bb-2a693edcf173"/> 
 
 **- 요구사항 및 화면설계**
 
