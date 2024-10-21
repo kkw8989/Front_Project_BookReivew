@@ -19,7 +19,6 @@
 </div>
 </details>
 
-<br>
 
  **1. 도서 조회**  
  도서 검색   
@@ -31,7 +30,7 @@
  연령대별 인기도서
   
  <img src="https://github.com/user-attachments/assets/b84be0df-3661-4b03-a26e-bdb2c860fb63" wwidth="25%" height="25%"/>
- <br>
+ <br></br>
 
  **3. 북카트**   
  대출신청 및 삭제
@@ -44,7 +43,7 @@
 리뷰 작성 및 수정, 삭제
 
 <img src="https://github.com/user-attachments/assets/32bc2300-dece-482f-9c55-d514c91b8462"width="35%" height="35%"/>
-<br>
+<br></br>
 
 ### 📍 설계
 
