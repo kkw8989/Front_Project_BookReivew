@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/user-attachments/assets/328efa04-0599-491c-8034-70a986ed02c8" width="47%" height="47%"/>
+ <img src="https://github.com/user-attachments/assets/328efa04-0599-491c-8034-70a986ed02c8" width="20%" height="20%"/>
 </div>
 
 ### ⚒️ 기술 스택
