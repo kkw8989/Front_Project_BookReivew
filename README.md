@@ -30,7 +30,7 @@
  **2. 인기도서**  
  연령대별 인기도서
   
- <img src="https://github.com/user-attachments/assets/b84be0df-3661-4b03-a26e-bdb2c860fb63" wwidth="35%" height="35%"/>
+ <img src="https://github.com/user-attachments/assets/b84be0df-3661-4b03-a26e-bdb2c860fb63" wwidth="30%" height="30%"/>
  <br>
 
  **3. 북카트**   
