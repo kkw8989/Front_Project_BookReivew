@@ -23,7 +23,7 @@
  **1. 도서 조회**  
  도서 검색   
 
- <img src="https://github.com/user-attachments/assets/a1bf0032-e24b-4402-83da-6dcf35294921" width="45%" height="45%"/>
+ <img src="https://github.com/user-attachments/assets/a1bf0032-e24b-4402-83da-6dcf35294921" width="42%" height="42%"/>
  <br></br>
  
  **2. 인기도서**  
@@ -42,7 +42,7 @@
  **4. 리뷰 작성**  
 리뷰 작성 및 수정, 삭제
 
-<img src="https://github.com/user-attachments/assets/32bc2300-dece-482f-9c55-d514c91b8462" width="50%" height="50%"/>
+<img src="https://github.com/user-attachments/assets/32bc2300-dece-482f-9c55-d514c91b8462" width="40%" height="40%"/>
 <br></br>
 
 ### 📍 설계
