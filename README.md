@@ -30,20 +30,20 @@
  **2. 인기도서**  
  연령대별 인기도서
   
- <img src="https://github.com/user-attachments/assets/b84be0df-3661-4b03-a26e-bdb2c860fb63" width="47%" height="47%"/>
+ <img src="https://github.com/user-attachments/assets/b84be0df-3661-4b03-a26e-bdb2c860fb63" wwidth="35%" height="35%"/>
  <br>
 
  **3. 북카트**   
  대출신청 및 삭제
  
- <img src="https://github.com/user-attachments/assets/e97e74ea-c00f-46f0-99d6-52c8fbb91061" width="47%" height="47%"/>
- <img src="https://github.com/user-attachments/assets/bff27a89-5287-4114-89d7-b64cdfe78275" width="47%" height="47%"/>
+ <img src="https://github.com/user-attachments/assets/e97e74ea-c00f-46f0-99d6-52c8fbb91061" width="35%" height="35%"/>
+ <img src="https://github.com/user-attachments/assets/bff27a89-5287-4114-89d7-b64cdfe78275" width="35%" height="35%"/>
  <br>
 
  **4. 리뷰 작성**  
 리뷰 작성 및 수정, 삭제
 
-<img src="https://github.com/user-attachments/assets/32bc2300-dece-482f-9c55-d514c91b8462" width="47%" height="47%"/>
+<img src="https://github.com/user-attachments/assets/32bc2300-dece-482f-9c55-d514c91b8462"width="35%" height="35%"/>
 <br>
 
 ### 📍 설계
