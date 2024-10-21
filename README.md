@@ -3,7 +3,7 @@
 </div>
 
 ### ⚒️ 기술 스택
-- React, CSS, Javascript
+- React, HTML, CSS, JavaScript
 
 ### 💡 주요 기능 
 
