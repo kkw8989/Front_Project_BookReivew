@@ -36,8 +36,8 @@
  **3. 북카트**   
  대출신청 및 삭제
  
- <img src="https://github.com/user-attachments/assets/e97e74ea-c00f-46f0-99d6-52c8fbb91061" width="35%" height="35%"/>
- <img src="https://github.com/user-attachments/assets/bff27a89-5287-4114-89d7-b64cdfe78275" width="60%" height="60%"/>
+ <img src="https://github.com/user-attachments/assets/e97e74ea-c00f-46f0-99d6-52c8fbb91061" width="40%" height="40%"/>
+ <img src="https://github.com/user-attachments/assets/bff27a89-5287-4114-89d7-b64cdfe78275" width="55%" height="55%"/>
  <br>
 
  **4. 리뷰 작성**  
@@ -50,7 +50,7 @@
 
 **- IA**
 
-<img src="https://github.com/user-attachments/assets/9f352a2f-4c13-4e51-b0bb-2a693edcf173" width="47%" height="47%"/> 
+<img src="https://github.com/user-attachments/assets/9f352a2f-4c13-4e51-b0bb-2a693edcf173" width="60%" height="60%"/> 
 
 
 **- 요구사항 및 화면설계**
