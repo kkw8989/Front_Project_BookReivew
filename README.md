@@ -36,7 +36,7 @@
  대출신청 및 삭제
  
  <img src="https://github.com/user-attachments/assets/e97e74ea-c00f-46f0-99d6-52c8fbb91061" width="35%" height="35%"/>
- <img src="https://github.com/user-attachments/assets/bff27a89-5287-4114-89d7-b64cdfe78275" width="58%" height="70%"/>
+ <img src="https://github.com/user-attachments/assets/bff27a89-5287-4114-89d7-b64cdfe78275" width="59%" height="70%"/>
  <br></br>
 
  **4. 리뷰 작성**  
